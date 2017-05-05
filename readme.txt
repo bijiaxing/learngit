@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Create a new branch is quick and simple you know it.
-=======
-Create a new branch is quick and simple.
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
->>>>>>> dev
-=======
-Create a new branch is quick and simple.
->>>>>>> feature1
+这是“多机器人协同操作云平台的代码”
+这里包含对服务器的各种操作的python代码
